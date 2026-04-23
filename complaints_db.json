@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-04-23 22:25:38",
+    "complaint_text": "i have been charged twice amount for the product \n",
+    "customer_id": "",
+    "channel": "Email",
+    "category": "Payment Issue",
+    "urgency": "Low",
+    "sentiment": "Neutral",
+    "confidence": 95,
+    "action": "Send billing statement, await response",
+    "sla": "48 hours",
+    "department": "Finance & Billing",
+    "key_issues": [
+      "Double charge detected"
+    ],
+    "labels": [
+      "payment-issue",
+      "financial-impact"
+    ],
+    "suggested_reply": "Dear Valued Customer,\n\nThank you for your feedback. We appreciate you taking the time to contact us. Our billing team will review your account and ensure any incorrect charges are reversed promptly.\n\nWe appreciate your patience and will be in touch shortly.\n\nWarm regards,\nCustomer Support Team"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-04-23 22:28:49",
+    "complaint_text": "The item I received is damaged/defective and does not work as described.",
+    "customer_id": "",
+    "channel": "Email",
+    "category": "Product Quality",
+    "urgency": "Low",
+    "sentiment": "Neutral",
+    "confidence": 95,
+    "action": "Feedback logged with QA team",
+    "sla": "72 hours",
+    "department": "Product & QA",
+    "key_issues": [
+      "Standard complaint",
+      "Awaiting classification"
+    ],
+    "labels": [
+      "product-quality"
+    ],
+    "suggested_reply": "Dear Valued Customer,\n\nThank you for your feedback. We appreciate you taking the time to contact us. A replacement will be arranged and we've notified our quality assurance team about this issue.\n\nWe appreciate your patience and will be in touch shortly.\n\nWarm regards,\nCustomer Support Team"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-04-23 22:28:52",
+    "complaint_text": "The item I received is damaged/defective and does not work as described.",
+    "customer_id": "",
+    "channel": "Email",
+    "category": "Product Quality",
+    "urgency": "Low",
+    "sentiment": "Neutral",
+    "confidence": 95,
+    "action": "Feedback logged with QA team",
+    "sla": "72 hours",
+    "department": "Product & QA",
+    "key_issues": [
+      "Standard complaint",
+      "Awaiting classification"
+    ],
+    "labels": [
+      "product-quality"
+    ],
+    "suggested_reply": "Dear Valued Customer,\n\nThank you for your feedback. We appreciate you taking the time to contact us. A replacement will be arranged and we've notified our quality assurance team about this issue.\n\nWe appreciate your patience and will be in touch shortly.\n\nWarm regards,\nCustomer Support Team"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-04-23 22:29:35",
+    "complaint_text": "The return process is broken, and I cannot file a complaint online",
+    "customer_id": "",
+    "channel": "Email",
+    "category": "Return & Refund",
+    "urgency": "High",
+    "sentiment": "Negative",
+    "confidence": 95,
+    "action": "Return approved, refund in 3\u20135 days",
+    "sla": "8 hours",
+    "department": "Returns Management",
+    "key_issues": [
+      "Standard complaint",
+      "Awaiting classification"
+    ],
+    "labels": [
+      "return-&-refund"
+    ],
+    "suggested_reply": "Dear Valued Customer,\n\nWe're truly sorry to hear about your experience and understand your frustration. We will process your return/refund as a priority and keep you updated throughout.\n\nWe appreciate your patience and will be in touch shortly.\n\nWarm regards,\nCustomer Support Team"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-04-23 22:29:41",
+    "complaint_text": "The return process is broken, and I cannot file a complaint online",
+    "customer_id": "",
+    "channel": "Email",
+    "category": "Return & Refund",
+    "urgency": "High",
+    "sentiment": "Negative",
+    "confidence": 95,
+    "action": "Return approved, refund in 3\u20135 days",
+    "sla": "8 hours",
+    "department": "Returns Management",
+    "key_issues": [
+      "Standard complaint",
+      "Awaiting classification"
+    ],
+    "labels": [
+      "return-&-refund"
+    ],
+    "suggested_reply": "Dear Valued Customer,\n\nWe're truly sorry to hear about your experience and understand your frustration. We will process your return/refund as a priority and keep you updated throughout.\n\nWe appreciate your patience and will be in touch shortly.\n\nWarm regards,\nCustomer Support Team"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-04-23 22:30:21",
+    "complaint_text": "Your app keeps crashing every time I try to checkout. I've lost my cart 3 times already. Very frustrating experience.",
+    "customer_id": "",
+    "channel": "App Review",
+    "category": "Technical Issue",
+    "urgency": "High",
+    "sentiment": "Negative",
+    "confidence": 95,
+    "action": "Assign developer, send workaround",
+    "sla": "4 hours",
+    "department": "Engineering Support",
+    "key_issues": [
+      "Standard complaint",
+      "Awaiting classification"
+    ],
+    "labels": [
+      "technical-issue"
+    ],
+    "suggested_reply": "Dear Valued Customer,\n\nWe're truly sorry to hear about your experience and understand your frustration. Our engineering team has been notified and will work to resolve this issue as quickly as possible.\n\nWe appreciate your patience and will be in touch shortly.\n\nWarm regards,\nCustomer Support Team"
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-04-23 22:48:57",
+    "complaint_text": "spoke to customer care and found the behaviour very rude\n",
+    "customer_id": "",
+    "channel": "Email",
+    "category": "Customer Service",
+    "urgency": "Medium",
+    "sentiment": "Negative",
+    "confidence": 84.4,
+    "action": "Internal review, follow-up call",
+    "sla": "24 hours",
+    "department": "Quality & HR",
+    "key_issues": [
+      "Standard complaint",
+      "Awaiting classification"
+    ],
+    "labels": [
+      "customer-service"
+    ],
+    "suggested_reply": "Dear Valued Customer,\n\nThank you for reaching out. We're sorry to hear you're having trouble. We have flagged this interaction for an internal review and will ensure this does not happen again.\n\nWe appreciate your patience and will be in touch shortly.\n\nWarm regards,\nCustomer Support Team"
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-04-23 23:01:10",
+    "complaint_text": "received bad product",
+    "customer_id": "",
+    "channel": "Email",
+    "category": "Product Quality",
+    "urgency": "Medium",
+    "sentiment": "Negative",
+    "confidence": 95,
+    "action": "Replacement processed",
+    "sla": "24 hours",
+    "department": "Product & QA",
+    "key_issues": [
+      "Standard complaint",
+      "Awaiting classification"
+    ],
+    "labels": [
+      "product-quality"
+    ],
+    "suggested_reply": "Dear Valued Customer,\n\nThank you for reaching out. We're sorry to hear you're having trouble. A replacement will be arranged and we've notified our quality assurance team about this issue.\n\nWe appreciate your patience and will be in touch shortly.\n\nWarm regards,\nCustomer Support Team"
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-04-23 23:01:44",
+    "complaint_text": "talked to customer support and found rude behaviour",
+    "customer_id": "",
+    "channel": "Email",
+    "category": "Customer Service",
+    "urgency": "Medium",
+    "sentiment": "Neutral",
+    "confidence": 95,
+    "action": "Internal review, follow-up call",
+    "sla": "24 hours",
+    "department": "Quality & HR",
+    "key_issues": [
+      "Standard complaint",
+      "Awaiting classification"
+    ],
+    "labels": [
+      "customer-service"
+    ],
+    "suggested_reply": "Dear Valued Customer,\n\nThank you for reaching out. We're sorry to hear you're having trouble. We have flagged this interaction for an internal review and will ensure this does not happen again.\n\nWe appreciate your patience and will be in touch shortly.\n\nWarm regards,\nCustomer Support Team"
+  }
+]
